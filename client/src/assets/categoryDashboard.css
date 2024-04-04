@@ -1,0 +1,24 @@
+.container {
+    background-color: hsl(0, 0%, 85%);
+    width: 92%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#card {
+    margin-top: 2.5%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    margin-bottom: 5%;
+}
+
+h4 {
+    margin-top: 10px;
+    color: #034AA6;
+}

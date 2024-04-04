@@ -1,0 +1,35 @@
+.principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    margin-top: 5px;
+    width: 111px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0339A6;
+    height: 70px;
+    width: 100%;
+}
+.header2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0339A6;
+    height: 70px;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.title{
+    margin-left: 10px;
+    color: #F2F2F2;
+}
+.title2{
+    color: #F2F2F2;
+    font-size: x-large;
+}
